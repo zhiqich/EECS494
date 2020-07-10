@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/yjx/MainMenu.unity
+    guid: 13051d234e3e6754abf58ecc7dbebaa1
+  - enabled: 1
+    path: Assets/Scenes/yjx/GetPlayer.unity
+    guid: 8f41298a21ea6a14da349e209d6a4464
+  - enabled: 1
+    path: Assets/Scenes/yjx/Battleground.unity
+    guid: 99fef0256b814a442a3a9abdf2891c3a
+  - enabled: 1
+    path: Assets/Scenes/yjx/Credits.unity
+    guid: a370a017fa2b43e4191f4cc7e4c68197
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 3542b46596205f846ab18c3bef63b338,
+      type: 2}

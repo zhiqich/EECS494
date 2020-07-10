@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickaxe
+  - GoldBar
+  - Stone
+  - Base
+  - bomb
+  - box
+  - Arrow
+  - Shooter
+  - HammerPlayer
+  - BombExplosion
+  - PlayerTrigger
+  - wall
+  - Canvas
+  - GoldMine
+  - wing
+  - cooler
+  - shield
+  - GA
+  - RedParticle
+  - BlueParticle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapons
+  - Player
+  - BaseTrigger
+  - Boxes
+  - Bases
+  - BigTiles
+  - GoldMine
+  - PlayerTrigger
+  - GoldCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Final
+    uniqueID: 3120419231
+    locked: 0

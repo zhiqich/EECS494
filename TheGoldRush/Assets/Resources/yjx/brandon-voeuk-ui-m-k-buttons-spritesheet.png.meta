@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: dc8a640f016b5d343994b4e6361999d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9123063383923925131
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_0
+  - first:
+      213: -7724114970806835573
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_1
+  - first:
+      213: -7657284139590238473
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_2
+  - first:
+      213: 1739858275530530326
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_3
+  - first:
+      213: 283421879752226980
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_4
+  - first:
+      213: 7560236430571858145
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_5
+  - first:
+      213: 2902443455111571722
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_6
+  - first:
+      213: -8583407270080578214
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_7
+  - first:
+      213: 9086543399618706871
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_8
+  - first:
+      213: -5636399728152240323
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_9
+  - first:
+      213: 9084972028036869385
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_10
+  - first:
+      213: 9032868456259294184
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_11
+  - first:
+      213: 336888571793083912
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_12
+  - first:
+      213: -7903855796248897736
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_13
+  - first:
+      213: -6915233180395696459
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_14
+  - first:
+      213: -8362816918831183729
+    second: brandon-voeuk-ui-m-k-buttons-spritesheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 397
+        width: 540
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80a826cfc1ab9e70800000000000000
+      internalID: 9123063383923925131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 302
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8628c0bb5e6ec490800000000000000
+      internalID: -7724114970806835573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 302
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7febd7325acdbb590800000000000000
+      internalID: -7657284139590238473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 302
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e558822e7352810800000000000000
+      internalID: 1739858275530530326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 302
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a87430b2baeee300800000000000000
+      internalID: 283421879752226980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 12
+        width: 221
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e33e4afa5be860800000000000000
+      internalID: 7560236430571858145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 204
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092592d1fc874820800000000000000
+      internalID: 2902443455111571722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 201
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7750909c91e880800000000000000
+      internalID: -8583407270080578214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 201
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd71725413e91e70800000000000000
+      internalID: 9086543399618706871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f90676f4c77c1b0800000000000000
+      internalID: -5636399728152240323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 106
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d6f7ddced441e70800000000000000
+      internalID: 9084972028036869385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e39a26b0023b5d70800000000000000
+      internalID: 9032868456259294184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e8d920f5edca400800000000000000
+      internalID: 336888571793083912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 11
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371cac970ddf4290800000000000000
+      internalID: -7903855796248897736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 11
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be05879f082800a0800000000000000
+      internalID: -6915233180395696459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brandon-voeuk-ui-m-k-buttons-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 282
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c077025e41fb80800000000000000
+      internalID: -8362816918831183729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
